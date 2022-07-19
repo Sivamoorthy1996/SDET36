@@ -7,14 +7,15 @@ public class MavenTest {
 @Test
 public void testing() {
 	System.out.println("testing");
+	System.out.println("hello ");
 }
-/**
- * @Test
+
+  @Test
  
 public void practice1() {
 	System.out.println("morning");
 }
-*/
+
 
 
 @Test
