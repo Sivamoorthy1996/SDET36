@@ -12,7 +12,7 @@ public void testing() {
  * @Test
  
 public void practice1() {
-	System.out.println("hello");
+	System.out.println("morning");
 }
 */
 
@@ -20,6 +20,7 @@ public void practice1() {
 @Test
 public void practice2() {
 	System.out.println("test all");
+	System.out.println("sonu");
 }
 
 
