@@ -8,13 +8,14 @@ public class MavenTest {
 public void testing() {
 	System.out.println("testing");
 }
-/**
+
  * @Test
  
 public void practice1() {
 	System.out.println("morning");
+	 System.out.println("bye");
 }
-*/
+
 
 
 @Test
