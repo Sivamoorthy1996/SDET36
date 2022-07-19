@@ -7,7 +7,7 @@ public class MavenTest {
 @Test
 public void testing() {
 	System.out.println("testing");
-	System.out.println("hello ");
+	System.out.println("hello");
 }
 
   @Test
