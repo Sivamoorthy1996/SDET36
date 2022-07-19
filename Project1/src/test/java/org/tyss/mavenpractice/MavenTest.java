@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 public class MavenTest {
 
 @Test
-public void practice() {
+public void testing() {
 	System.out.println("testing");
 }
 /**
